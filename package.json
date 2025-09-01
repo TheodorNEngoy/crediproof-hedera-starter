@@ -1,0 +1,13 @@
+﻿{
+  "name": "crediproof-hedera-starter",
+  "version": "1.0.1",
+  "description": "Minimal Hedera hackathon starter: anchor a hashed credential (HCS) + tokenize an invoice (HTS).",
+  "type": "module",
+  "scripts": {
+    "demo": "node scripts/demo.js"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.43.0",
+    "dotenv": "^16.4.5"
+  }
+}
